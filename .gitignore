@@ -1,0 +1,8 @@
+*.iml
+.idea
+.project
+.settings/
+out/
+shell/ruleJars/
+shell/readDir/
+tags
